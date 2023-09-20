@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "movies": [
+    {
+      "id": 1,
+      "fullName": "Gran Torino premyera",
+      "state": "AQSh",
+      "year": "2023",
+      "img": "http://images.uzmovi.com/2023-09-18/cb70d341ca0cb2b1e10ea02af8880578.jpg",
+      "video": "blob:http://uzmovi.com/c48c29d3-1567-4b32-90aa-0df3344ad43e"
+    }
+  ]
+}
